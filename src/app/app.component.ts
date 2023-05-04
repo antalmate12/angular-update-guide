@@ -204,6 +204,7 @@ export class AppComponent {
       return `typescript@2.7.x rxjs@^6.0.0`;
     }
   }
+  
   getAngularVersion(version: number) {
     if (version < 400) {
       return `'^2.0.0'`;
