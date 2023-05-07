@@ -14,12 +14,12 @@ const uiLabels: LocalizedLabels = {
   To: "Erre",
   Warning: "Figyelmeztetés",
   "Plans for releases after the current major release are not finalized and may change. These recommendations are based on scheduled deprecations.":
-    "Os planos de lançamento posteriores a versão atual não foram finalizados e podem mudar. Essas recomendações são baseadas nos cronogramas de depreciação.",
+    "A jelenlegi kiadás utáni tervek még nem véglegesítettek, és változhatnak. Ezek az ajánlások az értékcsökkenési terveken alapulnak.",
   "We do not currently support downgrading versions of Angular.":
-    "Atualmente, não oferecemos suporte para retorno de versões do Angular.",
+    "Jelenleg nem támogatjuk az Angular verzió visszaállítását.",
   "We do not recommend moving across multiple major versions.":
-    "Não recomendamos migrar entre várias versões principais.",
-  "App Complexity": "Complexidade da Aplicação",
+    "Nem javasoljuk a több főverzió közötti migrációt.",
+  "App Complexity": "Alkalmazás komplexitása",
   Basic: "Alapszintű",
   Medium: "Közepes",
   Advanced: "Speciális",
