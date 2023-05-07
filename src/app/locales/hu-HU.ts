@@ -6,6 +6,7 @@ import {
 
 const uiLabels: LocalizedLabels = {
   "Angular Update Guide": "Angular frissítési útmutató",
+  "Select the options that match your update": "Válassza ki a frissítésnek megfelelő opciókat",
   "Select the options matching your project:":
     "Válassza ki a projektjének megfelelő opciókat:",
   "Angular Versions": "Angular verziók",
@@ -23,13 +24,13 @@ const uiLabels: LocalizedLabels = {
   Medium: "Közepes",
   Advanced: "Speciális",
   "Show update information relevant to all Angular developers.":
-    "Mostre informações de atualização relevantes para todos os desenvolvedores Angular.",
+    "Releváns frissítési információk megjelenítése minden Angular fejlesztő számára.",
   "Show more specific update information relevant to around 10% of Angular developers.":
-    "Mostre informações de atualização mais específicas, relevantes para cerca de 10% dos desenvolvedores Angular.",
+    "Az Angular fejlesztők körülbelül 10%-a számára releváns, specifikusabb frissítési információk megjelenítése.",
   "Show all the information we have about the update.":
-    "Mostre todas as informações que temos sobre a atualização.",
+    "A frissítéssel kapcsolatos összes információ megjelenítése.",
   "Other Dependencies": "Egyéb függőségek",
-  "I use": "Eu uso",
+  "I use": "Használom:",
   "Package Manager": "Csomagkezelő",
   npm: "npm",
   yarn: "yarn",
@@ -41,11 +42,11 @@ const uiLabels: LocalizedLabels = {
   "During the Update": "A frissítés alatt",
   // tslint:disable-next-line: quotemark
   "There aren't currently any recommendations for moving between these versions.":
-    "Atualmente, não há recomendações para migrar entre essas versões.",
-  "After the Update": "Depois da atualização",
+    "Jelenleg nincsenek ajánlások az e verziók közötti átállásra.",
+  "After the Update": "A frissítés után",
   // tslint:disable-next-line: quotemark
   "There aren't currently any changes needed after moving between these versions.":
-    "Não é necessária nenhuma alteração após a migração dessas versões",
+    "Ezen verziók áttelepítése után nincs szükség változtatásokra.",
 };
 
 const steps: LocalizedSteps = {
